@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title>
+		<![CDATA[Boxes]]>
+	</title>
+	<author>
+		<![CDATA[GC-nomade aka Gcyrillus]]>
+	</author>
+	<version>1</version>
+	<date>05/11/2021</date>
+	<site>https://re7net.com</site>
+	<description>
+		<![CDATA[Theme en grid et colonnes ou pas
+		<br>articles glissant, sauf en mode article et petit ecran.
+		<br>1 points de rupture pour passer header et articles en une seule colonne.
+		<br>Uniquement compatible avec les navigateurs qui supporte le grid layout, ce qui est la majorité des navigateurs actuels.
+		]]>
+	</description>
+</document>
